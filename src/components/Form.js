@@ -30,7 +30,7 @@ export default function Form({ onAddItems }) {
   return (
       <form className="add-form" onSubmit={handleSubmit}>
           <div className="form-header">
-              <h3>What do you need for your trip?</h3>
+              <h3>What do you need?</h3>
           </div>
           <div className="form-inputs">
               <select

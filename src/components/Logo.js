@@ -1,3 +1,3 @@
 export default function Logo() {
-  return <h1>Travel List</h1>;
+  return <h1>Shopping List</h1>;
 }
